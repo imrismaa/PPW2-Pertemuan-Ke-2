@@ -1,2 +1,2 @@
-# PPW2-Pertemuan-Ke-2
-## Belajar Routing, View, dan Blade
+# Praktikum Pemrograman Web 2
+#### branch main : pertemuan ke 3 (rouitng, view, dan blade)
